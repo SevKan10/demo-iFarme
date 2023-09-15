@@ -1,65 +1,18 @@
-body {
-    text-align: center;
-}
-
-body {
+body {text-align:center;}
+body{
     background-image: url('https://mygarden.vn/wp-content/uploads/2020/09/dat-gi-trong-cay-tot-nhat-1.jpg');
 }
-
-.send {
+.send{
     border-radius: 25px;
     background: lightblue;
     padding: 5px;
     width: 90px;
     height: 30px;
 }
-
-.re {
+.re{
     border-radius: 25px;
     background: orange;
     padding: 5px;
     width: 90px;
     height: 30px;
-}
-
-body {
-    text-align: center;
-}
-
-body {
-    background-image: url('https://mygarden.vn/wp-content/uploads/2020/09/dat-gi-trong-cay-tot-nhat-1.jpg');
-}
-
-.send {
-    border-radius: 25px;
-    background: lightblue;
-    padding: 5px;
-    width: 90px;
-    height: 30px;
-}
-
-.re {
-    border-radius: 25px;
-    background: orange;
-    padding: 5px;
-    width: 90px;
-    height: 30px;
-}
-
-.w3-card-4 {
-    max-width: 400px; /* Set a maximum width for the card on smaller screens */
-    margin: 0 auto; /* Center the card horizontally */
-    padding: 20px;
-}
-
-.center-select {
-    text-align: center; /* Center-align the select elements */
-}
-
-.w3-container {
-    padding: 0; /* Remove padding inside the container */
-}
-
-.w3-btn {
-    width: 100%; /* Make buttons full width */
 }
