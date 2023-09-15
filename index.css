@@ -19,3 +19,9 @@ h1{color:#003399;}
 body{
   background-image: url('https://4.bp.blogspot.com/-myf1pNS0qco/V2OFtW0vIpI/AAAAAAAAAcw/j4l7ZVbze6I051z-gTW3rrLO7sWO-J0bgCLcB/s1600/Hinh-Nen-Mam-Cay-Hinh-Nen-May-Tinh-Dep-Nhat-HoangTueBlog-7.jpg');
 }
+.image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
