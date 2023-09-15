@@ -1,18 +1,33 @@
-body {text-align:center;}
-body{
+body {
+    text-align: center;
+}
+
+body {
     background-image: url('https://mygarden.vn/wp-content/uploads/2020/09/dat-gi-trong-cay-tot-nhat-1.jpg');
 }
-.send{
+
+.send {
     border-radius: 25px;
     background: lightblue;
     padding: 5px;
     width: 90px;
     height: 30px;
 }
-.re{
+
+.re {
     border-radius: 25px;
     background: orange;
     padding: 5px;
     width: 90px;
     height: 30px;
 }
+
+.w3-card-4 {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.center-select {
+    text-align: center;
+  }
